@@ -1,3 +1,7 @@
+# PROJECT IS MOVED TO [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker)!
+
+---
+
 # caddy-docker
 
 A [Caddy Server](https://caddyserver.com/) (version 2) Docker image.
